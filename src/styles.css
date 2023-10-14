@@ -32,6 +32,11 @@ body {
   color: white;
 }
 
+.active {
+  background-color: rgb(17, 174, 122);
+  color: white;
+}
+
 .container {
   margin: 100px 250px 0 250px;
 }
